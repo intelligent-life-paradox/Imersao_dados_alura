@@ -11,8 +11,8 @@ import pandas as pd
 import plotly.express as px
 
 
-'''---Configuração da página---
-Define o título, ícone e layout da página'''
+'''--- Por João Luca Teixeira Carvalho---
+Imersão de dados Alura '''
 
 # carrega os dados
 df = pd.read_csv("https://raw.githubusercontent.com/guilhermeonrails/data-jobs/refs/heads/main/salaries.csv")
